@@ -11,4 +11,7 @@ class Cliente
     public $Tipo; // Alumno, Administrativo o Docente
     public $Telefono;
     public $CorreoElectronico;
+
+    // solo para uso en php
+    public $Prestamos = array();
 }

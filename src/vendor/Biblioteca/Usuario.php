@@ -11,4 +11,7 @@ class Usuario
     public $Recordatorio;
     public $Nombres;
     public $Apellidos;
+
+    // solo para uso en php
+    public $Prestamos = array();
 }
